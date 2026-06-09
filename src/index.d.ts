@@ -1,6 +1,6 @@
 import * as React from "react";
 
-export declare function useCountUpOnView(
+export declare function useCountUp(
   target?: number,
   duration?: number
 ): {
