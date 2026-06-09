@@ -1,0 +1,19 @@
+{
+  "name": "countup",
+  "version": "1.0.0",
+  "description": "Simple React hook for scroll-based count-up animation",
+  "main": "src/index.js",
+  "keywords": [
+    "react",
+    "hook",
+    "countup",
+    "animation",
+    "scroll"
+  ],
+  "author": "luke123rem",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=16.8.0"
+  },
+  "types": "src/index.d.ts"
+}
