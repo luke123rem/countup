@@ -10,6 +10,9 @@
     "animation",
     "scroll"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "luke123rem",
   "license": "MIT",
   "peerDependencies": {
