@@ -1,6 +1,6 @@
 {
   "name": "@luke123rem/countup",
-  "version": "1.8.2",
+  "version": "1.8.3",
   "description": "Simple React hook for scroll-based count-up animation",
   "main": "src/index.js",
   "keywords": [
